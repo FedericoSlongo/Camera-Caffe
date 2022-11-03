@@ -1,0 +1,6 @@
+C:\Users\fslongo\source\repos\Camera Café\Camera Café\bin\Debug\Camera Café.exe.config
+C:\Users\fslongo\source\repos\Camera Café\Camera Café\bin\Debug\Camera Café.exe
+C:\Users\fslongo\source\repos\Camera Café\Camera Café\bin\Debug\Camera Café.pdb
+C:\Users\fslongo\source\repos\Camera Café\Camera Café\obj\Debug\Camera Café.csprojAssemblyReference.cache
+C:\Users\fslongo\source\repos\Camera Café\Camera Café\obj\Debug\Camera Café.exe
+C:\Users\fslongo\source\repos\Camera Café\Camera Café\obj\Debug\Camera Café.pdb
